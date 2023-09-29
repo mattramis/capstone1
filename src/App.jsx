@@ -1,6 +1,6 @@
 import React from "react";
 import PageContainer from "./components/PageContainer";
-import Header from "./assets/header";
+import Header from "./assets/Header";
 import Footer from "./components/Footer";
 import { Link } from "react-router-dom";
 
